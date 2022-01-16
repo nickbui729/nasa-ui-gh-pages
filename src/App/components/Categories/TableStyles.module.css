@@ -1,0 +1,15 @@
+.articleTitle {
+    color: blue;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+.authorName {
+    font-style: italic;
+}
+
+
+
+.trow:hover {
+    background-color: rgb(214, 214, 214);
+}
