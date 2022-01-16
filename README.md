@@ -6,6 +6,7 @@ https://docs.google.com/document/d/1UqXJdDNKk9TtWj33t6GNgkSZjqiz3PqVvzhHAEhJ_Po/
 **For Deployment:**
 (1) Clone repository
 (2) Make sure you have node modules installed.
+(3) Enable CORS proxy using --> https://cors-anywhere.herokuapp.com/corsdemo
 
 **Inside the root directory execute:** npm start
 
